@@ -1,0 +1,11 @@
+git remote add origin ""
+git init
+git status
+git add path
+git commit -m "message"
+git branch
+git checkout branch_name
+git push --set-upstream origin test
+git push origin master
+
+
