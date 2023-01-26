@@ -1,0 +1,9 @@
+Git Server:
+git status
+git log
+git branch
+git checkout -b bugfix
+git checkout master
+git branch -d bugfix(Delete after merging)
+git branch -D bugfix(Force delete)
+
