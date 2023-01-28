@@ -16,4 +16,5 @@ if __name__=="__main__":
    print(obj)
    print(getattr(obj,'a'))
    print(getattr(obj,'b'))
+   print(getattr(obj,'name',"Bapan"))
    print("==============================")
