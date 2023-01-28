@@ -14,4 +14,6 @@ if __name__=="__main__":
    obj=A(3,4)
    print(obj.get_dict())
    print(obj)
+   print(getattr(obj,'a'))
+   print(getattr(obj,'b'))
    print("==============================")
